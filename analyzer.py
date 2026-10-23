@@ -1,4 +1,3 @@
-"""Analyze Apache/Nginx combined access logs without contacting any host."""
 from __future__ import annotations
 import argparse
 import json
